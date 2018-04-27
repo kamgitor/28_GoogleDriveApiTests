@@ -1,0 +1,2 @@
+K:\ProjektyC#\28_GoogleDriveApiTests\GoogleDriveApiTests\GoogleDriveApiTests\bin\Debug\GoogleDriveApiTests.exe.config
+k:\ProjektyC#\28_GoogleDriveApiTests\GoogleDriveApiTests\bin\Debug\GoogleDriveApiTests.exe.config
