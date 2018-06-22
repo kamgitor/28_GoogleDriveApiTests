@@ -1,2 +1,32 @@
 K:\ProjektyC#\28_GoogleDriveApiTests\GoogleDriveApiTests\GoogleDriveApiTests\bin\Debug\GoogleDriveApiTests.exe.config
 k:\ProjektyC#\28_GoogleDriveApiTests\GoogleDriveApiTests\bin\Debug\GoogleDriveApiTests.exe.config
+d:\Robocze\!Visual C#\28_GoogleDriveApiTests\GoogleDriveApiTests\bin\Debug\GoogleDriveApiTests.exe.config
+d:\Robocze\!Visual C#\28_GoogleDriveApiTests\GoogleDriveApiTests\bin\Debug\GoogleDriveApiTests.exe
+d:\Robocze\!Visual C#\28_GoogleDriveApiTests\GoogleDriveApiTests\bin\Debug\GoogleDriveApiTests.pdb
+d:\Robocze\!Visual C#\28_GoogleDriveApiTests\GoogleDriveApiTests\bin\Debug\Google.Apis.Auth.dll
+d:\Robocze\!Visual C#\28_GoogleDriveApiTests\GoogleDriveApiTests\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+d:\Robocze\!Visual C#\28_GoogleDriveApiTests\GoogleDriveApiTests\bin\Debug\Google.Apis.Core.dll
+d:\Robocze\!Visual C#\28_GoogleDriveApiTests\GoogleDriveApiTests\bin\Debug\Google.Apis.dll
+d:\Robocze\!Visual C#\28_GoogleDriveApiTests\GoogleDriveApiTests\bin\Debug\Google.Apis.Drive.v3.dll
+d:\Robocze\!Visual C#\28_GoogleDriveApiTests\GoogleDriveApiTests\bin\Debug\Google.Apis.PlatformServices.dll
+d:\Robocze\!Visual C#\28_GoogleDriveApiTests\GoogleDriveApiTests\bin\Debug\Newtonsoft.Json.dll
+d:\Robocze\!Visual C#\28_GoogleDriveApiTests\GoogleDriveApiTests\bin\Debug\Google.Apis.pdb
+d:\Robocze\!Visual C#\28_GoogleDriveApiTests\GoogleDriveApiTests\bin\Debug\Google.Apis.xml
+d:\Robocze\!Visual C#\28_GoogleDriveApiTests\GoogleDriveApiTests\bin\Debug\Google.Apis.Auth.pdb
+d:\Robocze\!Visual C#\28_GoogleDriveApiTests\GoogleDriveApiTests\bin\Debug\Google.Apis.Auth.xml
+d:\Robocze\!Visual C#\28_GoogleDriveApiTests\GoogleDriveApiTests\bin\Debug\Google.Apis.Core.pdb
+d:\Robocze\!Visual C#\28_GoogleDriveApiTests\GoogleDriveApiTests\bin\Debug\Google.Apis.Core.xml
+d:\Robocze\!Visual C#\28_GoogleDriveApiTests\GoogleDriveApiTests\bin\Debug\Google.Apis.Drive.v3.pdb
+d:\Robocze\!Visual C#\28_GoogleDriveApiTests\GoogleDriveApiTests\bin\Debug\Google.Apis.Drive.v3.xml
+d:\Robocze\!Visual C#\28_GoogleDriveApiTests\GoogleDriveApiTests\bin\Debug\Newtonsoft.Json.xml
+d:\Robocze\!Visual C#\28_GoogleDriveApiTests\GoogleDriveApiTests\obj\Debug\GoogleDriveApiTests.csprojResolveAssemblyReference.cache
+d:\Robocze\!Visual C#\28_GoogleDriveApiTests\GoogleDriveApiTests\obj\Debug\MainWindow.g.cs
+d:\Robocze\!Visual C#\28_GoogleDriveApiTests\GoogleDriveApiTests\obj\Debug\App.g.cs
+d:\Robocze\!Visual C#\28_GoogleDriveApiTests\GoogleDriveApiTests\obj\Debug\GoogleDriveApiTests_MarkupCompile.cache
+d:\Robocze\!Visual C#\28_GoogleDriveApiTests\GoogleDriveApiTests\obj\Debug\GoogleDriveApiTests_MarkupCompile.lref
+d:\Robocze\!Visual C#\28_GoogleDriveApiTests\GoogleDriveApiTests\obj\Debug\MainWindow.baml
+d:\Robocze\!Visual C#\28_GoogleDriveApiTests\GoogleDriveApiTests\obj\Debug\GoogleDriveApiTests.g.resources
+d:\Robocze\!Visual C#\28_GoogleDriveApiTests\GoogleDriveApiTests\obj\Debug\GoogleDriveApiTests.Properties.Resources.resources
+d:\Robocze\!Visual C#\28_GoogleDriveApiTests\GoogleDriveApiTests\obj\Debug\GoogleDriveApiTests.csproj.GenerateResource.Cache
+d:\Robocze\!Visual C#\28_GoogleDriveApiTests\GoogleDriveApiTests\obj\Debug\GoogleDriveApiTests.exe
+d:\Robocze\!Visual C#\28_GoogleDriveApiTests\GoogleDriveApiTests\obj\Debug\GoogleDriveApiTests.pdb
